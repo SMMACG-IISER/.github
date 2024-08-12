@@ -1,6 +1,6 @@
 # .github
 
-# Swathi's Multiscale Modelling and Computational Group
+# Swathi's Multiscale Modelling and Computational Group (SMMACG)
 **Advancing Computational Chemistry and Multiscale Modelling**
 
 [Projects](#projects) | [About Us](#about-us) | [Documentation](#documentation) | [Contact](#contact)
@@ -8,10 +8,7 @@
 ## Welcome to Swathi's Group 
 The activities of our research group are centered on Theoretical Chemistry, with a primary goal of gaining a fundamental understanding of diverse chemical systems and phenomena. We utilize both analytical and computational approaches, drawing on classical and quantum mechanical principles, to achieve this objective. Our research primarily focuses on the following areas:
 
-- **Analytical Modelling of Carbon Nanostructures**
-- **Electronic Structure Calculations**
-- **Optical Excitations of Metal Nanoparticles**
-- **Global Optimistaion of Clusters**
+**Analytical Modelling of Carbon Nanostructures** | **Electronic Structure Calculations** | **Optical Excitations of Metal Nanoparticles** |**Global Optimistaion of Clusters**
 
 
 ### Dr. R. S. Swathi
