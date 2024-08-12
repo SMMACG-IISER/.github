@@ -10,24 +10,24 @@ The activities of our research group are centered on Theoretical Chemistry, with
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/analytical.png" alt="Analytical Modelling of Carbon Nanostructures" width="200"/>
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/analytical.png" alt="Analytical Modelling of Carbon Nanostructures" width="400"/>
         <br/>
         <b>Analytical Modelling of Carbon Nanostructures</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/electronic-structure.gif" alt="Electronic Structure Calculations" width="200"/>
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/electronic-structure.gif" alt="Electronic Structure Calculations" width="400"/>
         <br/>
         <b>Electronic Structure Calculations</b>
       </td>
     </tr>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/pes-fish.jpg" alt="Optical Excitations of Metal Nanoparticles" width="200"/>
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/pes-fish.jpg" alt="Optical Excitations of Metal Nanoparticles" width="400"/>
         <br/>
         <b>Optical Excitations of Metal Nanoparticles</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/plasmon.png" alt="Global Optimisation of Clusters" width="200"/>
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/plasmon.png" alt="Global Optimisation of Clusters" width="400"/>
         <br/>
         <b>Global Optimisation of Clusters</b>
       </td>
