@@ -6,32 +6,35 @@
 ## Welcome to Swathi's Group 
 The activities of our research group are centered on Theoretical Chemistry, with a primary goal of gaining a fundamental understanding of diverse chemical systems and phenomena. We utilize both analytical and computational approaches, drawing on classical and quantum mechanical principles, to achieve this objective. Our research primarily focuses on the following areas:
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/analytical.png" alt="Analytical Modelling of Carbon Nanostructures" width="200"/>
-      <br/>
-      <b>Analytical Modelling of Carbon Nanostructures</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/electronic-structure.gif" alt="Electronic Structure Calculations" width="200"/>
-      <br/>
-      <b>Electronic Structure Calculations</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/pes-fish.jpg" alt="Optical Excitations of Metal Nanoparticles" width="200"/>
-      <br/>
-      <b>Optical Excitations of Metal Nanoparticles</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/plasmon.png" alt="Global Optimisation of Clusters" width="200"/>
-      <br/>
-      <b>Global Optimisation of Clusters</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/analytical.png" alt="Analytical Modelling of Carbon Nanostructures" width="200"/>
+        <br/>
+        <b>Analytical Modelling of Carbon Nanostructures</b>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/electronic-structure.gif" alt="Electronic Structure Calculations" width="200"/>
+        <br/>
+        <b>Electronic Structure Calculations</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/pes-fish.jpg" alt="Optical Excitations of Metal Nanoparticles" width="200"/>
+        <br/>
+        <b>Optical Excitations of Metal Nanoparticles</b>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/Images/plasmon.png" alt="Global Optimisation of Clusters" width="200"/>
+        <br/>
+        <b>Global Optimisation of Clusters</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ### Dr. R. S. Swathi
