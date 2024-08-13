@@ -36,7 +36,6 @@
 
 > ### Publications & Research
 > Explore our latest research and publications to gain insights into our work on molecular modeling, computational chemistry, and plasmonics. [Click here to view our publications.](https://faculty.iisertvm.ac.in/swathi/publications)
-> 
 > Visit our [group website](https://faculty.iisertvm.ac.in/swathi/home) to learn more about our research, team members, and ongoing projects.
 
 
