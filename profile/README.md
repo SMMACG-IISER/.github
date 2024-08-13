@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Swathi's Multiscale Modelling and Computational Group (SMMACG)</h1>
-    <img src="Images/Slider-lab.jpg" alt="Lab" width="800"/>
+    <img src="https://github.com/SMMACG-IISER/.github/blob/main/profile/Images/Slider-lab.jpg" alt="Lab" width="800"/>
 </div>
 
 <div align="center">
@@ -13,21 +13,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="Images/analytical.png" alt="Analytical Modelling of Carbon Nanostructures" width="400"/><br/>
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/profile/Images/analytical.png" alt="Analytical Modelling of Carbon Nanostructures" width="400"/><br/>
         <b>Analytical Modelling of Carbon Nanostructures</b>
       </td>
       <td align="center">
-        <img src="Images/electronic-structure.gif" alt="Electronic Structure Calculations" width="400"/><br/>
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/profile/Images/electronic-structure.gif" alt="Electronic Structure Calculations" width="400"/><br/>
         <b>Electronic Structure Calculations</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="Images/plasmon.png" alt="Global Optimisation of Clusters" width="400"/><br/>
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/profile/Images/plasmon.png" alt="Global Optimisation of Clusters" width="400"/><br/>
         <b>Optical Excitations of Metal Nanoparticles</b>
       </td>
       <td align="center">
-        <img src="Images/pes-fish.jpg" alt="Optical Excitations of Metal Nanoparticles" width="400"/><br/>
+        <img src="https://github.com/SMMACG-IISER/.github/blob/main/profile/Images/pes-fish.jpg" alt="Optical Excitations of Metal Nanoparticles" width="400"/><br/>
         <b>Global Optimisation of Clusters</b>
       </td>
     </tr>
