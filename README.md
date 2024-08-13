@@ -34,35 +34,9 @@
   </table>
 </div>
 
-<div>
-  <h3>Dr. R. S. Swathi</h3>
-  <p>Dr. R. S. Swathi was born in Kurnool, Andhra Pradesh. She completed her schooling at Jawahar Navodaya Vidyalaya, Banavasi, Kurnool. She pursued an integrated B.Sc. Ed (Physics, Chemistry, Mathematics) at the Regional Institute of Education, Mysore, followed by an M.Sc. in Chemistry from IIT Guwahati. Dr. Swathi earned her Ph.D. from the Indian Institute of Science, Bangalore, under the guidance of Prof. K. L. Sebastian. Since September 2010, she has been a faculty member at IISER Thiruvananthapuram.</p>
-  <div align="center">
-    <img src="Images/swathi.jpg" alt="Dr. R. S. Swathi" style="border-radius: 50%; width: 170px; height: 170px; object-fit: cover;"/>
-  </div>
-</div>
+> ### Publications & Research
+> Explore our latest research and publications to gain insights into our work on molecular modeling, computational chemistry, and plasmonics. [Click here to view our publications.](https://faculty.iisertvm.ac.in/swathi/publications)
+> 
+> Visit our [group website](https://faculty.iisertvm.ac.in/swathi/home) to learn more about our research, team members, and ongoing projects.
 
-### Our Publications
 
-Explore our latest research and publications to gain insights into our work on molecular modeling, computational chemistry, and plasmonics. [Click here to view our publications.](https://faculty.iisertvm.ac.in/swathi/publications)
-
-Visit our [group website](https://faculty.iisertvm.ac.in/swathi/home) to learn more about our research, team members, and ongoing projects.
-
-## Contact
-
-<table width="100%">
-  <tr>
-    <td>
-      <p><strong>Address:</strong><br/>
-      School of Chemistry<br/>
-      IISER Thiruvananthapuram<br/>
-      Maruthamala P. O.<br/>
-      Thiruvananthapuram - 695551</p>
-    </td>
-    <td align="right">
-      <p><strong>Phone:</strong> +91 (0)471 - 2778079<br/>
-      <strong>Mail:</strong> <a href="mailto:swathi@iisertvm.ac.in">swathi@iisertvm.ac.in</a><br/>
-      (Dr. R. S. Swathi)</p>
-    </td>
-  </tr>
-</table>
