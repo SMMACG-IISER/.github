@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Swathi's Multiscale Modelling and Computational Group (SMMACG)</h1>
+    <h1>Swathi's Multiscale Modelling and Computational Group (SMMCG)</h1>
     <img src="https://github.com/SMMACG-IISER/.github/blob/main/profile/Images/Slider-lab.jpg" alt="Lab" width="800"/>
 </div>
 
